@@ -4,11 +4,8 @@
 
 For this project, we expect you to look at these concepts:
 
-<a href="https://intranet.alxswe.com/concepts/66">Python packages</a>
-<a href="https://intranet.alxswe.com/concepts/74">AirBnB clone</a>
-
-![image](https://user-images.githubusercontent.com/9413367/217551366-f07d4335-6d5c-4859-a1d8-e9f80c33bc43.png)
-
+* <a href="https://intranet.alxswe.com/concepts/66">Python packages</a>
+* <a href="https://intranet.alxswe.com/concepts/74">AirBnB clone</a>
 
 ## Background Context
 
