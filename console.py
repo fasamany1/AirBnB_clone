@@ -9,7 +9,6 @@ import json
 
 
 class HBNBCommand(cmd.Cmd):
-
     """Class for the command interpreter."""
 
     prompt = "(hbnb) "
@@ -21,6 +20,8 @@ class HBNBCommand(cmd.Cmd):
 
     def _precmd(self, line):
         """Intercept commands to test for class.syntax()"""
+
+        
         # print("PRECMD:::", line)
         match = re.search(r"^(\w*)\.(\w+)(?:\(([^)]*)\))$", line)
         if not match:
@@ -52,7 +53,7 @@ class HBNBCommand(cmd.Cmd):
         return command
 
     def update_dict(self, classname, uid, s_dict):
-        """Helr method for update() with a dictionary."""
+        """Help method for update() with a dictionary."""
         s = s_dict.replace("'", '"')
         d = json.loads(s)
         if not classname:
@@ -102,8 +103,7 @@ class HBNBCommand(cmd.Cmd):
             print(b.id)
 
     def do_show(self, line):
-        """Print the string representation of an instance.
-        """
+        """Print the string representation of an instance."""
         if line == "" or line is None:
             print("** class name missing **")
         else:
@@ -120,7 +120,7 @@ class HBNBCommand(cmd.Cmd):
                     print(storage.all()[key])
 
     def do_destroy(self, line):
-        """Delete an instance based on the class name and id.
+        """Delete an instance based on the class
         """
         if line == "" or line is None:
             print("** class name missing **")
