@@ -90,6 +90,18 @@ Usage: show <class_name> <_id>
 (hbnb)  
 ```
   
+**Example 2: Destroy an object**
+Usage: destroy <class_name> <_id>
+```
+(hbnb) destroy BaseModel 3aa5babc-efb6-4041-bfe9-3cc9727588f8
+(hbnb) show BaseModel 3aa5babc-efb6-4041-bfe9-3cc9727588f8
+** no instance found **
+(hbnb)   
+```
+
+
+
+
 #### 2. Unittests
 
 All your files, classes, functions must be tested with unit tests
