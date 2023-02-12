@@ -4,53 +4,6 @@ This is a clone of the AirBnB project. This project handles the backend of the p
 
 Data (python objects) generated are stored in a json file and can be accessed with the help of the json module in python (serialization/deserialization)
 
-### Execution
-
-Your shell should work like this in interactive mode:
-
-```
-$ ./console.py
-(hbnb) help
-
-Documented commands (type help <topic>):
-========================================
-EOF  help  quit
-
-(hbnb) 
-(hbnb) 
-(hbnb) quit
-$
-```
-
-But also in non-interactive mode: (like the Shell project in C)
-
-```
-$ echo "help" | ./console.py
-(hbnb)
-
-Documented commands (type help <topic>):
-========================================
-EOF  help  quit
-(hbnb) 
-$
-$ cat test_help
-help
-$
-$ cat test_help | ./console.py
-(hbnb)
-
-Documented commands (type help <topic>):
-========================================
-EOF  help  quit
-(hbnb) 
-$
-```
-
-All tests should also pass in non-interactive mode: ```$ echo "python3 -m unittest discover tests" | bash```
-
-![image](https://user-images.githubusercontent.com/9413367/217550968-37878ed6-255e-43c6-bfba-a913fb5c8fee.png)
-
-## Tasks
 
 ####0. README, AUTHORS
 
