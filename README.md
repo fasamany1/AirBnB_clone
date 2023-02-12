@@ -1,5 +1,6 @@
 # 0x00. AirBnB clone - The console
-
+## Project Description
+This is a clone of the AirBnB project. This project handles the backend of the project interfacing it with a console application with the help of the cmd module in python.
 
 ### Python Scripts
 
