@@ -2,8 +2,7 @@
 ## Project Description
 This is a clone of the AirBnB project. This project handles the backend of the project interfacing it with a console application with the help of the cmd module in python.
 
-
-## More Info
+Data (python objects) generated are stored in a json file and can be accessed with the help of the json module in python (serialization/deserialization)
 
 ### Execution
 
