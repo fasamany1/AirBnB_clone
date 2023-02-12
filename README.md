@@ -1,11 +1,5 @@
 # 0x00. AirBnB clone - The console
 
-#### Concepts
-
-For this project, we expect you to look at these concepts:
-
-* <a href="https://intranet.alxswe.com/concepts/66">Python packages</a>
-* <a href="https://intranet.alxswe.com/concepts/74">AirBnB clone</a>
 
 ## Background Context
 
