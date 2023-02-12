@@ -14,6 +14,18 @@ This is just like the Bash shell to manage the AirBnB objects (`User`, `State`, 
  - Destroy an object
 Some of the commands available are: `show`, `create`, `update`, `destroy`, `count` etc.
 
+## Usage of interpreter
+1. First clone this repository
+2. Locate the `console.py` file and run it as follows:
+```
+/AirBnB_clone$ ./console.py
+```
+3. When this command is run the following prompt should appear:
+```
+(hbnb)
+```
+4.  This prompt designates you are in the "HBnB" console. There are a variety of commands available within the console program.
+
 
 
 ####0. README, AUTHORS
