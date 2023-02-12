@@ -72,6 +72,15 @@ The recognizable commands by the interpreter are the following:
 | **update** | Updates an instance based on the class name and `id` by adding or updating attribute (saves the changes into a JSON file). | `update <class name\> <id\> <attribute name\> "<attribute value\>"` ---or--- `<class name\>.update(<id\>, <attribute name\>, <attribute value\>)` --or-- `<class name\>.update(<id\>, <dictionary representation\>)`|
 | **count** | Retrieve the number of instances of a class.  | `class name\>.count()` |
 
+## Examples
+### Primary Command Syntax
+**Example 0: Create an object**
+Usage: create <class_name>
+```
+(hbnb) create BaseModel
+3aa5babc-efb6-4041-bfe9-3cc9727588f8
+(hbnb)                   
+```
 
   
 #### 2. Unittests
