@@ -61,29 +61,6 @@ Advanced syntax is implemented for the following commands:
 
 
 
-####0. README, AUTHORS
-
-* Write a README.md:
-    * description of the project
-    * description of the command interpreter:
-        * how to start it
-        * how to use it
-        * examples
-* You should have an ```AUTHORS``` file at the root of your repository, listing all individuals having contributed content to the repository. For format, reference <a href="https://intranet.alxswe.com/rltoken/_8n_z3pf5HWi1l7uv1E9iA">Docker’s AUTHORS page</a>
-* You should use branches and pull requests on GitHub - it will help you as team to organize your work
-
-**Repo:**
-
-* GitHub repository: ```AirBnB_clone```
-* File: ```README.md, AUTHORS```
- 
-#### 1. Be pycodestyle compliant!
-
-Write beautiful code that passes the pycodestyle checks.
-
-**Repo:**
-
-GitHub repository: ```AirBnB_clone```
   
 #### 2. Unittests
 
