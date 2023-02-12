@@ -145,5 +145,5 @@ Usage: <class_name>.update(<_id>, )
 👤 **ABDUL-FATAHU HARDI**
 - GitHub: [@at-tawlib](https://github.com/at-tawlib)
 
-👤 **Forster Asamany **
+👤 **Forster Asamany**
 - Github: [@fasamany1](https://github.com/fasamany1)
