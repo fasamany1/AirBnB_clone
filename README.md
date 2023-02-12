@@ -4,6 +4,17 @@ This is a clone of the AirBnB project. This project handles the backend of the p
 
 Data (python objects) generated are stored in a json file and can be accessed with the help of the json module in python (serialization/deserialization)
 
+## Command interpreter
+This is just like the Bash shell to manage the AirBnB objects (`User`, `State`, `City`, `Place`, `Review` etc.) It is used to: 
+ - Create new objects
+ - Save object to file in json format
+ - Retrieve an object form a json file
+ - Do operations on objects (count, compute stats etc.)
+ - Update attributes of an object
+ - Destroy an object
+Some of the commands available are: `show`, `create`, `update`, `destroy`, `count` etc.
+
+
 
 ####0. README, AUTHORS
 
