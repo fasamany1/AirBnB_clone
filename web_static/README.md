@@ -35,7 +35,7 @@ Before starting, please fork or clone the repository AirBnB_clone from your part
 * <a href="https://intranet.alxswe.com/rltoken/7NdYbImFNofpB_FXXn3otg">Inline Styles in HTML</a>
 * <a href="https://intranet.alxswe.com/rltoken/z_OTPFCjmhXJJi7KJqBCbQ">Specifics on CSS Specificity</a>
 * <a href="https://intranet.alxswe.com/rltoken/7iqk-el4ZVnKeyLoON8Rqg">CSS SpeciFishity</a>
-* <a href="https://intranet.alxswe.com/rltoken/okP4V3RxFXHkEcQo19AnuQIntroduction to HTML</a>
+* <a href="https://intranet.alxswe.com/rltoken/okP4V3RxFXHkEcQo19AnuQ">Introduction to HTML</a>
 * <a href="https://intranet.alxswe.com/rltoken/Ir8Ka59FO6Z_vJQ-gkSG_w">CSS</a>
 * <a href="https://intranet.alxswe.com/rltoken/BpSXtcWOGH0UT4XLCoQyJg">MDN</a>
 * <a href="https://intranet.alxswe.com/rltoken/Tlje4XYwyZbUfHkQWGi1WQ">center boxes</a>
